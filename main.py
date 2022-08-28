@@ -143,11 +143,10 @@ def tifufu(x,y):
     t.forward(50)
     t.setheading(0)
 
-
 tifufu(-50,-50)
 #tifufu(-200,-200)
 
+turtle.done()
 
-
-while 1:
-    pass
+""" while 1:
+    pass """
